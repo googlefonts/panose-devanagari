@@ -3,13 +3,18 @@
 Ben Bauermeister  
 December 12th, 2014
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img align="right" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
+
+License: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+
+Source files available at [github.com/googlefonts/panose-devanagari](https://github.com/googlefonts/panose-devanagari)
 
 ## Introduction
 
 This is the first publication version of the PANOSE classification scheme for Devanagari typeface designs.
 Many thanks to the contributors who helped make this first version better and more understandable.
 Your continued feedback is very welcome!
+Please file issues at [github.com/googlefonts/panose-devanagari/issues](https://github.com/googlefonts/panose-devanagari/issues)
 
 ### Overview
 

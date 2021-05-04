@@ -139,8 +139,6 @@ Hence this digit principally tracks the aesthetic attributes of how the stroke i
 * 8 = Flared  
   Simple widening of the vertical stem terminations
 
-
-
 #### (3) Weight
 
 <img align="right" width="200" src="3.jpg">
@@ -176,7 +174,6 @@ In Devanagari the traits are separated into individual parameters to begin with.
 * 5 = Very Extended  
 * 6 = Very Condensed  
 
-
 #### (4b) Glyph Shapes
 
 Within the standard library of glyph shapes for Devanagari, there are several characters that alternate their design based on stylistic or historical references. 
@@ -200,7 +197,6 @@ More information is needed to precicesly classify these traits.
   Based on an angular framework to the glyph geometries
 * 7 = Westernized  
   Possessing several traits that are comparable to Latin design  
-
 
 #### (4c) Monospaced
 
@@ -358,7 +354,7 @@ Note: Italic forms serve a different purpose in Latin than in Devanagari. Latinâ
 * 3 = Oblique  
   Depicted by vertical stems that are noticeably slanting forward
 
-### (8c) Turns Speed
+#### (8c) Turns Speed
 
 <img align="right" width="200" src="8c.jpg">
 

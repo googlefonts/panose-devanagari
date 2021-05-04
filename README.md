@@ -3,11 +3,12 @@
 Ben Bauermeister  
 December 12th, 2014
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img align="right" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
-
-License: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+Web page available at [https://googlefonts.github.io/panose-devanagari](https://googlefonts.github.io/panose-devanagari)
 
 Source files available at [github.com/googlefonts/panose-devanagari](https://github.com/googlefonts/panose-devanagari)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img align="right" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
+License: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
 
 ## Introduction
 
